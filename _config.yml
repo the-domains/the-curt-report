@@ -1,0 +1,28 @@
+name: The Curt Report
+favicon: null
+layout_spectrum: 0.6011044923216105
+typography_spectrum: 0.6642957008443773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3389839231967926
+  lightness: 0.8839637860655785
+  saturation: 0.8363294778391719
+  rhythmicContrast: 0.07420827471651137
+purpose: []
